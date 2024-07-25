@@ -1,5 +1,4 @@
 import streamlit as st
-import matplotlib.pyplot as plt
 
 # Setting up the layout using columns
 st.title("TOTEC - Total Ownership Tracking Economic Calculator")
